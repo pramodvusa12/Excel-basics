@@ -20,3 +20,4 @@ This repository contains my Excel Basics practice.
 
 ## Tools Used
 - Microsoft Excel
+<img width="1475" height="898" alt="image" src="https://github.com/user-attachments/assets/68a7748e-c9a1-4a50-96a5-c915388a7c95" />
