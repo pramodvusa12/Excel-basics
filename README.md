@@ -86,6 +86,28 @@ By the end of Day 4, I can confidently use Excel logical functions to automate d
 **Progress:** ✅ Day 4/14 Completed
 <img width="1586" height="807" alt="Screenshot 2026-07-31 114614" src="https://github.com/user-attachments/assets/d4c43913-defb-4378-b0ba-fcdbbaaa6b62" />
 
+Day 5 Progress – Excel Learning Journey
+
+Completed Day 5 of my Excel learning roadmap. Today's focus was on text functions, which are essential for cleaning, formatting, and manipulating textual data in Excel.
+
+Topics Covered
+LEFT()
+RIGHT()
+MID()
+LEN()
+TRIM()
+CONCAT() / CONCATENATE()
+Text formatting and string manipulation
+Learning Outcome
+Extracted specific characters from text strings.
+Measured the length of text values.
+Removed extra spaces to clean datasets.
+Combined multiple text values into a single string.
+Improved data preparation skills for real-world data analysis tasks.
+
+Status: ✅ Day 5 Completed
+<img width="1920" height="1080" alt="Screenshot 2026-07-31 222653" src="https://github.com/user-attachments/assets/b970b271-2259-4826-abbe-7d3ee7324df4" />
+
 
 
 
