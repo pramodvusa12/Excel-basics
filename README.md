@@ -51,4 +51,41 @@ Improved my understanding of Excel formulas commonly used in data analysis and r
 <img width="768" height="457" alt="Screenshot 2026-07-30 203637" src="https://github.com/user-attachments/assets/5c62959c-1066-442a-96fc-377a8faf33c6" />
 <img width="611" height="233" alt="Screenshot 2026-07-30 203645" src="https://github.com/user-attachments/assets/e47715ef-c7d5-4cac-9157-fbb92e4dd502" />
 
+# Day 3 – Excel Logical Functions
+
+Today I completed **Day 4** of my **14-Day Excel Learning Challenge**.
+
+## Topics Covered
+
+* IF Function
+* Nested IF
+* AND Function
+* OR Function
+* Pass/Fail Logic
+* Grade Calculator
+* Conditional Formatting
+
+## Practice Completed
+
+* Built a student result sheet using logical functions.
+* Created a grade calculator with nested IF statements.
+* Used AND and OR functions to solve real-world scenarios.
+* Applied conditional formatting to highlight results automatically.
+
+### Key Formulas Learned
+
+* `IF()`
+* `AND()`
+* `OR()`
+* Nested `IF()`
+
+## Outcome
+
+By the end of Day 4, I can confidently use Excel logical functions to automate decision-making, create grading systems, and build simple business rules.
+
+**Progress:** ✅ Day 4/14 Completed
+<img width="1586" height="807" alt="Screenshot 2026-07-31 114614" src="https://github.com/user-attachments/assets/d4c43913-defb-4378-b0ba-fcdbbaaa6b62" />
+
+
+
 
