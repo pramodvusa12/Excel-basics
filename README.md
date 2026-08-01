@@ -108,6 +108,30 @@ Improved data preparation skills for real-world data analysis tasks.
 Status: ✅ Day 5 Completed
 <img width="1920" height="1080" alt="Screenshot 2026-07-31 222653" src="https://github.com/user-attachments/assets/b970b271-2259-4826-abbe-7d3ee7324df4" />
 
+## Day 6 Progress – Excel Learning Journey
+
+Completed Day 6 of my Excel learning roadmap. Today's focus was on **date and time functions**, which are widely used for tracking, scheduling, and analyzing time-based data in Excel.
+
+### Topics Covered
+
+* `TODAY()`
+* `NOW()`
+* `DATE()`
+* `YEAR()`
+* `MONTH()`
+* `DAY()`
+* `DATEDIF()`
+* Calculating age and date differences
+* Working with dynamic dates (Today, Yesterday, Tomorrow)
+
+### Learning Outcome
+
+* Retrieved the current date and time dynamically.
+* Extracted year, month, and day from date values..
+* Strengthened my understanding of date-based analysis commonly used in data analytics and reporting.
+
+**Status:** ✅ Day 6 Completed
+<img width="768" height="940" alt="image" src="https://github.com/user-attachments/assets/31fe1183-d553-43d3-b9e9-1875718e28de" />
 
 
 
