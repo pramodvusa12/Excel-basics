@@ -168,4 +168,5 @@ Strengthening my Excel skills for Data Analytics, Power BI, SQL, and real-world 
 #Excel #DataAnalytics #MicrosoftExcel #VLOOKUP #XLOOKUP #INDEXMATCH #GitHubLearning #LearningInPublic
 
 **Status:** ✅ Day 7 Completed
+<img width="1536" height="991" alt="image" src="https://github.com/user-attachments/assets/3c60b3cb-3a3b-4685-9ed8-2cdab036ab11" />
 
