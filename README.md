@@ -133,5 +133,39 @@ Completed Day 6 of my Excel learning roadmap. Today's focus was on **date and ti
 **Status:** ✅ Day 6 Completed
 <img width="768" height="940" alt="image" src="https://github.com/user-attachments/assets/31fe1183-d553-43d3-b9e9-1875718e28de" />
 
+## Day 7 Progress – Excel Learning Journey
 
+Today I learned and practiced the most commonly used Excel Lookup Functions used in data analysis.
+
+## Topics Covered
+- VLOOKUP
+- XLOOKUP
+- INDEX + MATCH
+- Exact Match Lookups
+- Retrieving Sales Data using Employee Names
+
+## Dataset Used
+- Employee ID
+- Employee Name
+- Place
+- Sales
+
+## Skills Gained
+- Fetching data from tables using lookup functions
+- Understanding the differences between VLOOKUP, XLOOKUP, and INDEX-MATCH
+- Performing dynamic and efficient data retrieval
+- Building a strong foundation for Excel-based data analysis
+
+## Functions Practiced
+- `VLOOKUP()`
+- `XLOOKUP()`
+- `INDEX()`
+- `MATCH()`
+
+### Goal
+Strengthening my Excel skills for Data Analytics, Power BI, SQL, and real-world business reporting.
+
+#Excel #DataAnalytics #MicrosoftExcel #VLOOKUP #XLOOKUP #INDEXMATCH #GitHubLearning #LearningInPublic
+
+**Status:** ✅ Day 7 Completed
 
