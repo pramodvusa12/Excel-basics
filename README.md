@@ -170,3 +170,51 @@ Strengthening my Excel skills for Data Analytics, Power BI, SQL, and real-world 
 **Status:** ✅ Day 7 Completed
 <img width="1536" height="991" alt="image" src="https://github.com/user-attachments/assets/3c60b3cb-3a3b-4685-9ed8-2cdab036ab11" />
 
+DAY - 8
+# 📊 Excel Sorting & Filtering Practice
+
+This project is part of my journey to becoming a Data Analyst.
+
+## 🔍 Topics Covered
+
+- Sorting data A → Z
+- Sorting data Z → A
+- Sorting salaries from highest to lowest
+- Sorting salaries from lowest to highest
+- Custom sorting
+- Multi-level sorting
+- Filtering employee records
+- Filtering by Place
+- Filtering by Department
+- Filtering employee salary data
+
+## 🛠️ Tools Used
+
+- Microsoft Excel
+- Excel Sort & Filter
+- Custom Sort
+- Excel Tables
+
+## 📈 Dataset
+
+The dataset contains employee information including:
+
+- Employee Number
+- Employee Name
+- Place
+- Department
+- Salary
+
+## 🎯 Learning Objective
+
+The goal of this project is to develop practical Excel data-handling skills required for Data Analyst roles, especially data organization, filtering, sorting, and basic analysis.
+
+## 👨‍💻 Skills Practiced
+<img width="1920" height="1080" alt="Screenshot 2026-08-12 175524" src="https://github.com/user-attachments/assets/cf417df5-60c1-45b9-8b43-5f502f8465eb" />
+<img width="726" height="277" alt="Screenshot 2026-08-12 181022" src="https://github.com/user-attachments/assets/c4a0ca19-50ad-42b8-8119-a66d4ebb9146" />
+<img width="675" height="387" alt="Screenshot 2026-08-12 181038" src="https://github.com/user-attachments/assets/d8f8a156-091d-422d-9a3a-44cfc21fb790" />
+<img width="768" height="309" alt="Screenshot 2026-08-12 181056" src="https://github.com/user-attachments/assets/d0cb74d6-27e8-4842-9c2a-587f54189c13" />
+
+
+
+`Microsoft Excel` `Data Cleaning` `Data Sorting` `Data Filtering` `Data Analysis`
