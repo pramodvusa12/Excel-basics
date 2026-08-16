@@ -216,5 +216,49 @@ The goal of this project is to develop practical Excel data-handling skills requ
 <img width="768" height="309" alt="Screenshot 2026-08-12 181056" src="https://github.com/user-attachments/assets/d0cb74d6-27e8-4842-9c2a-587f54189c13" />
 
 
+## Excel Sales Analysis – Pivot Table Practice
 
-`Microsoft Excel` `Data Cleaning` `Data Sorting` `Data Filtering` `Data Analysis`
+Today I practiced **Pivot Tables in Excel** using a sales dataset containing Date, Name, Place, Product, and Sales Value.
+
+### Analysis Performed
+
+- Created Pivot Tables to analyze **total product values by different places**
+- Analyzed **products purchased by different people**
+- Calculated **total sales for each product**
+- Analyzed **products purchased by people in different places**
+- Calculated **total sales in Guntur**
+- Calculated **total sales of Mouse**
+- Calculated **total sales of individual salespersons**
+- Analyzed **total sales by date**
+- Used **Grand Total** to summarize overall sales
+
+### Key Result
+
+- **Overall Sales:** ₹1,07,900
+- **Highest Salesperson:** Rajesh – ₹36,100
+- **Highest Product Sales:** Mouse – ₹30,700
+- **Guntur Sales:** ₹32,700
+- **Ponnuru Sales:** ₹36,200
+
+### Skills Practiced
+
+- Pivot Tables
+- Rows & Columns in Pivot Tables
+- Values & Sum of Values
+- Filters
+- Grouping and summarizing data
+- Grand Totals
+- Sales data analysis
+- Data interpretation
+
+**Status:** ✅ Excel Pivot Table Practice Completed
+`Microsoft Excel` `Data Cleaning` `Data Sorting` `Data Filtering` `Data Analysis``
+<img width="816" height="973" alt="Screenshot 2026-08-16 114017" src="https://github.com/user-attachments/assets/a209f64c-0b0f-4f1c-818f-fcfd9fd086bd" />
+<img width="496" height="425" alt="Screenshot 2026-08-16 113900" src="https://github.com/user-attachments/assets/80d7ff8f-3c08-40f9-8add-0b00a81ad61c" />
+<img width="695" height="685" alt="Screenshot 2026-08-16 113742" src="https://github.com/user-attachments/assets/ffa7a35e-d6db-4d40-a234-6195bf95e4b6" />
+<img width="587" height="346" alt="Screenshot 2026-08-16 113704" src="https://github.com/user-attachments/assets/794fec84-635f-4520-af07-42541b803931" />
+<img width="1421" height="735" alt="Screenshot 2026-08-16 113600" src="https://github.com/user-attachments/assets/e6c4b9b7-34fb-48ca-955b-6292385c8376" />
+<img width="1047" height="780" alt="Screenshot 2026-08-16 113317" src="https://github.com/user-attachments/assets/b33e87e5-f0d0-4338-a4fa-a12c1a271166" />
+<img width="1245" height="873" alt="Screenshot 2026-08-16 113145" src="https://github.com/user-attachments/assets/9cbf6056-d7ec-4f3f-a5bd-4de579587725" />
+<img width="1054" height="915" alt="Screenshot 2026-08-16 113038" src="https://github.com/user-attachments/assets/55a0f416-5987-4898-ae68-0b08d5cef55c" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-16 112717" src="https://github.com/user-attachments/assets/85ef2916-303d-47a9-afe7-8365e809ead4" />
