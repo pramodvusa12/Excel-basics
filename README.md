@@ -262,3 +262,36 @@ Today I practiced **Pivot Tables in Excel** using a sales dataset containing Dat
 <img width="1245" height="873" alt="Screenshot 2026-08-16 113145" src="https://github.com/user-attachments/assets/9cbf6056-d7ec-4f3f-a5bd-4de579587725" />
 <img width="1054" height="915" alt="Screenshot 2026-08-16 113038" src="https://github.com/user-attachments/assets/55a0f416-5987-4898-ae68-0b08d5cef55c" />
 <img width="1920" height="1080" alt="Screenshot 2026-08-16 112717" src="https://github.com/user-attachments/assets/85ef2916-303d-47a9-afe7-8365e809ead4" />
+## Excel Charts – Data Visualization Practice
+
+Completed Excel Charts practice using a monthly sales dataset containing Sales, Profit, and Orders.
+
+### Charts Created
+
+- 📊 Sales Column Chart
+- 📈 Monthly Sales Line Chart
+- 🥧 Monthly Sales Pie Chart
+- 📊 Monthly Sales & Profit Comparison Chart
+- 📊 Sales, Profit & Orders Comparison Chart
+
+### Skills Practiced
+
+- Creating charts from Excel data
+- Column and Bar Charts
+- Line Charts
+- Pie Charts
+- Comparing multiple data series
+- Adding chart titles and legends
+- Formatting and positioning charts
+- Understanding trends through data visualization
+
+### Key Insights
+
+- December recorded the **highest sales – ₹95,000**
+- December also recorded the **highest profit – ₹26,000**
+- Sales generally showed an **upward trend throughout the year**
+- October–December showed particularly strong sales performance
+- Orders increased from **120 in January to 245 in December**
+
+**Status:** ✅ Excel Charts & Data Visualization Completed
+<img width="1499" height="999" alt="image" src="https://github.com/user-attachments/assets/987f38cb-d53e-4c24-8deb-9119ffd1b29e" />
